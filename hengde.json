@@ -1,0 +1,75 @@
+{
+    "facility" : {
+        "name" : "hengde",
+        "type" : "panoramic",
+        "optimization_objects" : 1
+    },
+
+     "source rack" : {
+        "modules_set" : [1,4],
+        "modules_x_intervals" : [0],
+        "modules_y_intervals" : [5,20,5],
+        "module_position" : 59,
+        "source_interval" : 2
+    },
+
+    "product cage" : {
+        "cage_width" : 93.0,
+        "cage_height" : 154.0,
+        "cage_thickness" : 57.0,
+        "cage_from_rack" : 31.5,
+        "cage_layers" : 2,
+        "cage_each_layer" : 8,
+        "distance_between_cages" : 2,
+        "distance_between_layers" : 18.2,
+        "reference_dose_point_set" : [3,3,3]
+    },
+
+    "source pencils" : {
+        "number" : 39,
+        "bar_length" : 45,
+        "bar_radius" : 0.5,
+        "activity" : [
+12998.54,
+12385.87,
+12521.25,
+12855.26,
+13256.46,
+12930.36,
+13010.40,
+13199.95,
+12972.58,
+13253.33,
+12753.13,
+12512.91,
+12735.33,
+13282.98,
+12942.93,
+13154.47,
+13038.57,
+13167.12,
+12985.17,
+12682.57,
+13167.12,
+12807.17,
+12943.63,
+12750.80,
+12769.59,
+12792.33,
+13213.42,
+13072.94,
+13353.89,
+13331.14,
+12762.32,
+13027.44,
+13407.18,
+12789.03,
+12679.22,
+12609.75,
+12590.93,
+12715.71,
+12814.74]
+    }
+
+}
+
