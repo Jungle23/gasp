@@ -1,1 +1,1 @@
-# gasp: Genetic Algorithm for Source Planning of irradiators
+# spga: Source Planning for irradiators with Genetic Algorithm
