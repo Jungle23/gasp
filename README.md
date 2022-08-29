@@ -2,7 +2,9 @@
 
 ## Example:
 
-`The planar source rack:`
+A planar source rack with 39 cobalt-60 pencils and 236 positions avaliable.
+
+`The source rack:`
 
 <img src="http://test-typora-pic.oss-cn-beijing.aliyuncs.com/typora-img/Source_rack_and_product_cages.png" alt="Source_rack_and_product_cages" style="zoom:10%;" />
 
